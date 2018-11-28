@@ -1,0 +1,2 @@
+# deb https://deb.nodesource.com/node_8.x bionic main # disabled on upgrade to bionic
+# deb-src https://deb.nodesource.com/node_8.x bionic main # disabled on upgrade to bionic

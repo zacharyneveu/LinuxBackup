@@ -1,0 +1,13 @@
+---
+configuration:
+  default_profile:
+  - neveu_zach
+  - OnhrN8LmtPqSLO4NNf6R5pEeS
+profiles:
+  neveu_zach:
+    OnhrN8LmtPqSLO4NNf6R5pEeS:
+      username: neveu_zach
+      consumer_key: OnhrN8LmtPqSLO4NNf6R5pEeS
+      consumer_secret: ABTOVuZHYKKCZARKlAI9z4SwoKNeDZbd8hoXf8zMIXcRvKXVBf
+      token: 1055150234165231616-lGQ1yvSPEBQmQX7r4UUKjHuAt4izjG
+      secret: kwUgVVERm8XqZfrul5ddJIWa4swDNSCAb4euZXUrLLrTy

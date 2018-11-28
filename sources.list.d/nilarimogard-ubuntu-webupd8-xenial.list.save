@@ -1,0 +1,2 @@
+# deb http://ppa.launchpad.net/nilarimogard/webupd8/ubuntu bionic main # disabled on upgrade to bionic
+# deb-src http://ppa.launchpad.net/nilarimogard/webupd8/ubuntu xenial main
